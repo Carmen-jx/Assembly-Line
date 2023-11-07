@@ -1,10 +1,4 @@
-// Name: Carmen Lam
-// Seneca Student ID: 129950226
-// Seneca email: clam98@myseneca.ca
-// Date of completion: August 3, 2023
-//
-// I confirm that I am the only author of this file
-//   and the content was created entirely by me.
+
 #ifndef M1_LINEMANAGER_H
 #define M1_LINEMANAGER_H
 #include <vector>
